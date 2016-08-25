@@ -4,7 +4,7 @@ repository: chrisramiro/chrisramiro.github.io.
 title: Christian Ramiro
 email: chrisram@berkeley.edu
 email2: chris05ram@gmail.com
-baseurl: "http://chrisramiro.github.io"
+baseurl: ""
 url: "http://chrisramiro.github.io"
 
 github: chrisramiro
