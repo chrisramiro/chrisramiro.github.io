@@ -1,0 +1,28 @@
+repository: chrisramiro/chrisramiro.github.io.
+
+# Site Variables
+title: Christian Ramiro
+email: chrisram@berkeley.edu
+email2: chris05ram@gmail.com
+baseurl: ""
+url: "http://chrisramiro.github.io"
+
+github: chrisramiro
+facebook: "https://www.facebook.com/Chris19Ram"
+instagram: pierobotics
+spotify: chris05ram
+
+#Design Variables
+blue_l: 
+blue_d: #155065
+greyblue: #2a343e
+orange_l: #ffba33
+orange_d:
+
+#Default Values
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
