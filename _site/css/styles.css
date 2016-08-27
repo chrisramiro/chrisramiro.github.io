@@ -1,4 +1,3 @@
-
 body {
     padding-top: 70px;
     background-color: #2a343e;
@@ -7,6 +6,11 @@ body {
     font-family: 'Ubuntu', sans-serif;
     color: #ffffff;
 }
+
+.nav-link {
+    color: #ffffff;
+}
+
 
 p {
     font-family: 'Work Sans';
