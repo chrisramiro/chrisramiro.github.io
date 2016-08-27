@@ -10,18 +10,21 @@
     <meta name="description" content="hi">
     
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link href="../css/font-awesome.min.css" rel="stylesheet">
 
     <!-- jQuery library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
     <!-- Latest compiled JavaScript -->
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    
+    <script src="../assets/javascripts/bootstrap.min.js"></script>
+
     <!-- Personal CSS -->
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="stylesheet" href="../css/bootstrap-override.css">
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Work Sans|Ubuntu" rel="stylesheet">
 
 </head>
 
@@ -32,115 +35,97 @@
     <!-- Brand and toggle get grouped for better mobile display -->
 
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="font-family: Courier New;">
-          
+      
         <div class="navbar-header" style="text-align: center; width:100%; position:absolute; margin-top:-5px;">
-              <a class="navbar-brand" style="float: none;" ref="http://chrisramiro.github.io/">
-                  <div id="title" style="color: white;">C:/Users/Christian/Documents/Home</div>
+              <a class="navbar-brand" style="float: none;" ref="/">
+                  <div id="title" style="color: white;">Christian Ramiro | Home</div>
               </a>
           </div>
         
         <ul class="nav navbar-nav navbar-left" style="width:30vw; font-size: 2.35vh;">
+            <li>
+                <a href="/index.html">Home</a>
+            </li>
             <li class="dropdown">
-              <a href="http://chrisramiro.github.io/about/team.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
+              <a href="/about/team.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="http://chrisramiro.github.io/about/who-am-i.html">Who Am I?</a></li>            
-                <li><a href="http://chrisramiro.github.io/about/timeline.html">Timeline</a></li>
-                <li><a href="http://chrisramiro.github.io/about/faq.html">FAQ</a></li>
+                <li><a href="/about/who-am-i.html">Who Am I?</a></li>            
+                <li><a href="/about/timeline.html">Timeline</a></li>
+                <li><a href="/about/faq.html">FAQ</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="http://chrisramiro.github.io/projects/research.html">Research</a></li>
-                <li><a href="http://chrisramiro.github.io/projects/extracurricular.html">Extracurricular</a></li>
-                <li><a href="http://chrisramiro.github.io/projects/in-class.html">In-Class</a></li>
-                  <li><a href="http://chrisramiro.github.io/projects/non-technical.html">Non-Technical</a></li>
+                <li><a href="/projects/research.html">Research</a></li>
+                <li><a href="/projects/extracurricular.html">Extracurricular</a></li>
+                <li><a href="/projects/in-class.html">In-Class</a></li>
+                  <li><a href="/projects/non-technical.html">Non-Technical</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resume <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="http://chrisramiro.github.io/resume/resume.html">Resume</a></li>
-                <li><a href="http://chrisramiro.github.io/resume/4-year-plan.html">4 Year Plan</a></li>
+                <li><a href="/resume/resume.html">Resume</a></li>
+                <li><a href="/resume/4-year-plan.html">4 Year Plan</a></li>
               </ul>
             </li>
           </ul>
-        
-        
 
       <ul class="nav navbar-nav navbar-right social">
-                <li><a href="#"><i class="fa fa-lg fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-lg fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-lg fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-lg fa-linkedin"></i></a></li>
+                <li><a href="https://www.facebook.com/Chris05Ram"><i class="fa fa-lg fa-facebook"></i></a></li>
+                <li><a href="https://www.instagram.com/chris05ram"><i class="fa fa-lg fa-instagram"></i></a></li>
+                <li><a href="https://play.spotify.com/user/chris05ram"><i class="fa fa-lg fa-spotify"></i></a></li>
+                <li><a href="https://www.github.com/chrisramiro"><i class="fa fa-lg fa-github"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/chrisramiro"><i class="fa fa-lg fa-linkedin"></i></a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
 
-    <div class="container" style="background-color: grey; padding: 25px;">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae molestie odio, molestie malesuada elit. Donec fermentum auctor cursus. Nunc sed libero leo. Sed pharetra quam at augue viverra, ut fermentum leo sodales. In sit amet sagittis nisi. In eu ornare ex, vel placerat dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In tincidunt orci nisl, et tincidunt eros tincidunt iaculis.
+    <div class="container" style="padding: 25px;">
+      <div style="display: inline">
+    <div style="background-color:#222222; height: 28px;">
+        <i style="color: #ff5e29;" class="fa fa-lg fa-times-circle action-circle"></i>
+        <i style="color: #ffed63;" class="fa fa-lg fa-stop-circle action-circle"></i>
+        <i style="color: #98d90d;"class="fa fa-lg fa-minus-circle action-circle"></i>
+    </div><div style="background-color:#000000; padding: .5em 2em 2em 2em;" id="index-hero">
 
-In non magna nisl. Mauris congue quam ligula, sit amet sagittis velit malesuada et. Nunc vitae egestas sem, vel lacinia libero. Vestibulum tempor nisl nec diam finibus dictum. Fusce ac pretium nibh. Ut tempor, purus vitae facilisis porttitor, enim mauris maximus odio, quis convallis diam ligula vitae nisl. Aliquam sed lacus dui. Vestibulum vulputate cursus luctus. Aenean auctor cursus rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla nisi lacus, commodo eu turpis vitae, viverra lobortis tortor. Mauris vehicula congue est.
+                  <h1>Hello, </h1>
+                  <h3>My name is Christian Ramiro, and I am a sophomore studying Computer Science and Cognitive Science at UC Berkeley
+                      <span id="periodic">|</span></h3>
+                    <br>
+                    <br>
+                    <br>
+                  <a class="btn btn-primary btn-large">Learn more</a>
+                    <br>
+                    <p> </p>
+    </div>
+</div>
 
-Aliquam ac ornare nulla. Etiam sed ultricies mauris, vel pulvinar purus. Maecenas sed ex consectetur, vehicula nibh vitae, interdum metus. Mauris ultrices, magna sed lacinia sagittis, est magna ornare dolor, id varius sem purus at purus. Aenean accumsan eleifend urna. Quisque interdum accumsan faucibus. Proin vel sapien vitae ipsum euismod condimentum sit amet vel ipsum. Curabitur in varius eros, a accumsan nibh. Nunc eu tincidunt arcu. Vestibulum vulputate et odio vitae condimentum. Cras lacus ipsum, tempor sed felis vitae, facilisis accumsan metus.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. In eu augue eu odio dignissim sollicitudin. Morbi pellentesque at dui sed finibus. Phasellus vestibulum imperdiet tortor. Pellentesque vulputate iaculis lacus malesuada blandit. Nunc eleifend ornare justo, non ullamcorper dolor luctus quis. Sed convallis elit quis mi sollicitudin, at commodo enim rhoncus. Nunc turpis mauris, scelerisque porta lacus aliquam, porta interdum tortor. Maecenas lacinia sapien non ex convallis varius. Maecenas iaculis nulla in porttitor aliquet. Donec vel mollis nibh.
-
-Suspendisse id gravida turpis. Donec nec dui eu ipsum ultricies molestie. Sed sit amet blandit nisl. Nam rutrum pulvinar lacus eu pellentesque. Proin dolor libero, varius ac ligula in, malesuada tempus lectus. Fusce fermentum blandit tellus commodo fermentum. Donec ullamcorper molestie gravida.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae molestie odio, molestie malesuada elit. Donec fermentum auctor cursus. Nunc sed libero leo. Sed pharetra quam at augue viverra, ut fermentum leo sodales. In sit amet sagittis nisi. In eu ornare ex, vel placerat dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In tincidunt orci nisl, et tincidunt eros tincidunt iaculis.
-
-In non magna nisl. Mauris congue quam ligula, sit amet sagittis velit malesuada et. Nunc vitae egestas sem, vel lacinia libero. Vestibulum tempor nisl nec diam finibus dictum. Fusce ac pretium nibh. Ut tempor, purus vitae facilisis porttitor, enim mauris maximus odio, quis convallis diam ligula vitae nisl. Aliquam sed lacus dui. Vestibulum vulputate cursus luctus. Aenean auctor cursus rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla nisi lacus, commodo eu turpis vitae, viverra lobortis tortor. Mauris vehicula congue est.
-
-Aliquam ac ornare nulla. Etiam sed ultricies mauris, vel pulvinar purus. Maecenas sed ex consectetur, vehicula nibh vitae, interdum metus. Mauris ultrices, magna sed lacinia sagittis, est magna ornare dolor, id varius sem purus at purus. Aenean accumsan eleifend urna. Quisque interdum accumsan faucibus. Proin vel sapien vitae ipsum euismod condimentum sit amet vel ipsum. Curabitur in varius eros, a accumsan nibh. Nunc eu tincidunt arcu. Vestibulum vulputate et odio vitae condimentum. Cras lacus ipsum, tempor sed felis vitae, facilisis accumsan metus.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. In eu augue eu odio dignissim sollicitudin. Morbi pellentesque at dui sed finibus. Phasellus vestibulum imperdiet tortor. Pellentesque vulputate iaculis lacus malesuada blandit. Nunc eleifend ornare justo, non ullamcorper dolor luctus quis. Sed convallis elit quis mi sollicitudin, at commodo enim rhoncus. Nunc turpis mauris, scelerisque porta lacus aliquam, porta interdum tortor. Maecenas lacinia sapien non ex convallis varius. Maecenas iaculis nulla in porttitor aliquet. Donec vel mollis nibh.
-
-Suspendisse id gravida turpis. Donec nec dui eu ipsum ultricies molestie. Sed sit amet blandit nisl. Nam rutrum pulvinar lacus eu pellentesque. Proin dolor libero, varius ac ligula in, malesuada tempus lectus. Fusce fermentum blandit tellus commodo fermentum. Donec ullamcorper molestie gravida.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae molestie odio, molestie malesuada elit. Donec fermentum auctor cursus. Nunc sed libero leo. Sed pharetra quam at augue viverra, ut fermentum leo sodales. In sit amet sagittis nisi. In eu ornare ex, vel placerat dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In tincidunt orci nisl, et tincidunt eros tincidunt iaculis.
-
-In non magna nisl. Mauris congue quam ligula, sit amet sagittis velit malesuada et. Nunc vitae egestas sem, vel lacinia libero. Vestibulum tempor nisl nec diam finibus dictum. Fusce ac pretium nibh. Ut tempor, purus vitae facilisis porttitor, enim mauris maximus odio, quis convallis diam ligula vitae nisl. Aliquam sed lacus dui. Vestibulum vulputate cursus luctus. Aenean auctor cursus rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla nisi lacus, commodo eu turpis vitae, viverra lobortis tortor. Mauris vehicula congue est.
-
-Aliquam ac ornare nulla. Etiam sed ultricies mauris, vel pulvinar purus. Maecenas sed ex consectetur, vehicula nibh vitae, interdum metus. Mauris ultrices, magna sed lacinia sagittis, est magna ornare dolor, id varius sem purus at purus. Aenean accumsan eleifend urna. Quisque interdum accumsan faucibus. Proin vel sapien vitae ipsum euismod condimentum sit amet vel ipsum. Curabitur in varius eros, a accumsan nibh. Nunc eu tincidunt arcu. Vestibulum vulputate et odio vitae condimentum. Cras lacus ipsum, tempor sed felis vitae, facilisis accumsan metus.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. In eu augue eu odio dignissim sollicitudin. Morbi pellentesque at dui sed finibus. Phasellus vestibulum imperdiet tortor. Pellentesque vulputate iaculis lacus malesuada blandit. Nunc eleifend ornare justo, non ullamcorper dolor luctus quis. Sed convallis elit quis mi sollicitudin, at commodo enim rhoncus. Nunc turpis mauris, scelerisque porta lacus aliquam, porta interdum tortor. Maecenas lacinia sapien non ex convallis varius. Maecenas iaculis nulla in porttitor aliquet. Donec vel mollis nibh.
-
-Suspendisse id gravida turpis. Donec nec dui eu ipsum ultricies molestie. Sed sit amet blandit nisl. Nam rutrum pulvinar lacus eu pellentesque. Proin dolor libero, varius ac ligula in, malesuada tempus lectus. Fusce fermentum blandit tellus commodo fermentum. Donec ullamcorper molestie gravida.</p>
     </div>
 
-    <footer class="site-footer">
+      <footer class="site-footer">
 
   <div class="container-fluid">
+      
+      <hr>
 
     <div class="row">
       <div class="col-md-4">
-        <ul class="contact-list">
+        <ul class="contact-list" style="list-style-type:none">
           <li>Christian Ramiro</li>
-          <li>chrisram@berkeley.edu</li>
+            <li><a href="mailto:chrisram@berkeley.edu">chrisram@berkeley.edu</a></li>
         </ul>
       </div>
 
-      <div class="col-md-4">
-        <ul class="social-media-list">
-          <li>
-            <a href="https://github.com/chrisramiro" target="_blank">
-              <i class="fa fa-github fa-2x"></i>
-            </a>
-          </li>
-
-          <li>
-            <a href="https://facebook.com/https://www.facebook.com/Chris19Ram" target="_blank">
-              <i class="fa fa-facebook fa-2x"></i>
-            </a>
-          </li>
-
-          
-
-          
-        </ul>
+      <div class="col-md-4" style="">
+        <a href="https://www.facebook.com/Chris05Ram"><i class="fa fa-lg fa-facebook"></i></a>
+        <a href="https://www.instagram.com/chris05ram"><i class="fa fa-lg fa-instagram"></i></a>
+        <a href="https://play.spotify.com/user/chris05ram"><i class="fa fa-lg fa-spotify"></i></a>
+        <a href="https://www.github.com/chrisramiro"><i class="fa fa-lg fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/chrisramiro"><i class="fa fa-lg fa-linkedin"></i></a>
       </div>
 
       <div class="col-md-4">
