@@ -2,6 +2,8 @@
 body {
     padding-top: 70px;
     background-color: #2a343e;
+    background-image: url("http://www.omgubuntu.co.uk/wp-content/uploads/2016/02/Xerus_Default_Wallpaper.jpg");
+    background-size: 100% 100vh;
     font-family: 'Ubuntu', sans-serif;
     color: #ffffff;
 }
@@ -123,6 +125,10 @@ img {
 #research-hero {
     background-image:url('/assets/pictures/research/hero.png');
     height:20vh;
+}
+
+.site-footer {
+    background-color: #222222;
 }
 
 /* Effects */
