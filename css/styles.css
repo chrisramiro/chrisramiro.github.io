@@ -1,7 +1,11 @@
+html {
+    overflow-y:scroll;
+}
+
 body {
     padding-top: 70px;
     background-color: #2a343e;
-    background-image: url("http://www.omgubuntu.co.uk/wp-content/uploads/2016/02/Xerus_Default_Wallpaper.jpg");
+    background-image: url("http://i.imgur.com/ifvZ5Ss.jpg");
     background-size: 100% 100vh;
     font-family: 'Ubuntu', sans-serif;
     color: #ffffff;
@@ -12,11 +16,24 @@ body {
 }
 
 
+p{
+  font-family: 'Work Sans';
+  text-indent: 4em;
+  font-size: 2.5vh;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: type 3s steps(60, end); 
+}
+
+/*
+
 p {
     font-family: 'Work Sans';
     text-indent: 4em;
     font-size: 2.2vh;
 }
+*/
 
 img {
     box-shadow: 3px 3px 5px #525252;
@@ -31,6 +48,7 @@ img {
     width: 100%;
     height: 36vh;
     margin-bottom: 5vh;
+    color: #ffffff;
 /*    box-shadow: 7px 7px 5px #222222;*/
 }
 
@@ -41,7 +59,8 @@ img {
 }
 
 .block {
-    background-color: #f7f7f7;
+    background-color: #000000;
+    color: #ffffff;
     height: 100%;
 }
 
@@ -81,30 +100,6 @@ img {
 #index-hero {
 }
 
-#periodic {
-    animation: blink 1s infinite;
-/*
-  animation: blink-animation 1s steps(5, start) infinite;
-  -webkit-animation: blink-animation 1s steps(5, start) infinite;
-*/
-}
-
-@keyframes blink{
-    to {
-        opacity: .01;
-    }
-}
-
-@keyframes blink-animation {
-  to {
-    visibility: hidden;
-  }
-}
-@-webkit-keyframes blink-animation {
-  to {
-    visibility: hidden;
-  }
-}
 
 /* About */
 
@@ -137,4 +132,43 @@ img {
 
 /* Effects */
 
+#periodic {
+    animation: blink 1s infinite;
+/*
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+*/
+}
 
+@keyframes blink{
+    to {
+        opacity: .01;
+    }
+}
+
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+
+p:nth-child(2){
+  animation: type2 4s steps(60, end);
+}
+
+@keyframes type{ 
+  from { width: 0; } 
+} 
+
+@keyframes type2{
+  0%{width: 0;}
+  50%{width: 0;}
+  100%{ width: 100; } 
+} 
