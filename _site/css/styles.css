@@ -2,13 +2,20 @@ html {
     overflow-y:scroll;
 }
 
+
 body {
     padding-top: 70px;
-    background-color: #2a343e;
-    background-image: url("http://i.imgur.com/ifvZ5Ss.jpg");
+    background-color: #ffffff;
+    background-image: url("https://hd.unsplash.com/photo-1468476775582-6bede20f356f");
     background-size: 100% 100vh;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Inconsolata', sans-serif;
     color: #ffffff;
+}
+
+.white-line {
+    color: white;
+    border-width: 2px;
+    margin-top: -3px;
 }
 
 .nav-link {
@@ -17,23 +24,13 @@ body {
 
 
 p{
-  font-family: 'Work Sans';
   text-indent: 4em;
   font-size: 2.5vh;
-  white-space: nowrap;
-  overflow: hidden;
-  width: 30em;
-  animation: type 3s steps(60, end); 
 }
 
-/*
-
-p {
-    font-family: 'Work Sans';
-    text-indent: 4em;
-    font-size: 2.2vh;
+#title {
+    font-family: 'Bitter', 'sans-serif';
 }
-*/
 
 img {
     box-shadow: 3px 3px 5px #525252;
@@ -76,7 +73,6 @@ img {
 }
 
 .proj-desc {
-    color: #2a343e;
     padding: 1em;
 }
 
@@ -126,8 +122,10 @@ img {
     height:20vh;
 }
 
-.site-footer {
-    background-color: #222222;
+.footer {
+  background-color: #222222;
+  position: 0;
+  
 }
 
 /* Effects */
@@ -158,17 +156,3 @@ img {
   }
 }
 
-
-p:nth-child(2){
-  animation: type2 4s steps(60, end);
-}
-
-@keyframes type{ 
-  from { width: 0; } 
-} 
-
-@keyframes type2{
-  0%{width: 0;}
-  50%{width: 0;}
-  100%{ width: 100; } 
-} 
