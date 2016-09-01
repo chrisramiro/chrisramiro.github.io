@@ -6,7 +6,7 @@ html {
 body {
     padding-top: 70px;
     background-color: #ffffff;
-    background-image: url("https://hd.unsplash.com/photo-1468476775582-6bede20f356f");
+    background-image: url("https://hd.unsplash.com/photo-1441393896022-4b7a439d4003");
     background-size: 100% 100vh;
     font-family: 'Inconsolata', sans-serif;
     color: #ffffff;
@@ -30,11 +30,6 @@ p{
 
 #title {
     font-family: 'Bitter', 'sans-serif';
-}
-
-img {
-    box-shadow: 3px 3px 5px #525252;
-    margin: 1em;
 }
 
 .shadow {
