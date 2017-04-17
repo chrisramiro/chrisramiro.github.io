@@ -1,4 +1,4 @@
-data = '[
+[
   {
     "Raw Date": "(OE–)",
     "Start Date": "OE",
@@ -296,4 +296,4 @@ data = '[
     "Categories": "02.05.04.01.01|03 n",
     "PoS": "n"
   }
-]';
+]
