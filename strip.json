@@ -1,0 +1,686 @@
+[
+  {
+    "RawDate": "(a1225–)",
+    "StartDate": 1225,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Clothing -> Undress/remove clothing -> strip/undress a person",
+    "Categories": "01.08.02.04.01|01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1688–)",
+    "StartDate": 1688,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Clothing -> Undress/remove clothing -> in preparation for contest",
+    "Categories": "01.08.02.04.01|01 vi",
+    "PoS": "vi"
+  },
+  {
+    "RawDate": "(c1386–)",
+    "StartDate": 1386,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Undress/remove clothing",
+    "Categories": "01.08.02.04.01 vr",
+    "PoS": "vr"
+  },
+  {
+    "RawDate": "(1760/2– chiefly Scots)",
+    "StartDate": 1760,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Clothing -> Undress/remove clothing -> take off clothing",
+    "Categories": "01.08.02.04.01|02 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(c1422–)",
+    "StartDate": 1422,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Clothing -> Undress/remove clothing -> divest of specific garments -> strip/undress a person -> other",
+    "Categories": "01.08.02.04.01|01.05.08 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1974– colloq.)",
+    "StartDate": 1974,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Clothing -> Set/suit of clothes -> for specific people -> other",
+    "Categories": "01.08.02.02.12|09.04 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1598–1658)",
+    "StartDate": 1598,
+    "EndDate": 1658,
+    "WordForm": "strip",
+    "Identifiers": "Clothing -> Neck-wear -> clothing for neck and other parts -> neck and chest",
+    "Categories": "01.08.02.02.04|06.04 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1947–)",
+    "StartDate": 1947,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Physical science -> Remove from nucleus",
+    "Categories": "01.10.07.06 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1935–)",
+    "StartDate": 1935,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Physical science -> Produce ions -> remove electron",
+    "Categories": "01.10.07.05.02.01|03 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1933–)",
+    "StartDate": 1933,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Physical science -> Produce ions -> deprive of electron, etc.",
+    "Categories": "01.10.07.05.02.01|02 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1962– Chemistry)",
+    "StartDate": 1962,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Solvents and solutes -> strip",
+    "Categories": "01.10.02.21.09|03 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1896–)",
+    "StartDate": 1896,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Dye -> remove dye",
+    "Categories": "01.10.09.03.03|05 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1789– Scots)",
+    "StartDate": 1789,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Colour -> Stripiness -> stripe",
+    "Categories": "01.10.09.08.02|02 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1970–)",
+    "StartDate": 1970,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Light -> Electric light -> strip light",
+    "Categories": "01.10.08.07.01.01.01|10 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(c1400–1616)",
+    "StartDate": 1400,
+    "EndDate": 1616,
+    "WordForm": "strip",
+    "Identifiers": "Move at specific rate -> Move swiftly",
+    "Categories": "01.14.04.01 vi",
+    "PoS": "vi"
+  },
+  {
+    "RawDate": "(c1590–1774)",
+    "StartDate": 1590,
+    "EndDate": 1774,
+    "WordForm": "strip",
+    "Identifiers": "Move at specific rate -> catch up/overtake -> gain (ground) upon -> outstrip",
+    "Categories": "01.14.04|07.01.04 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1688–)",
+    "StartDate": 1688,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Take drugs -> Prepare tobacco -> remove leaves",
+    "Categories": "01.09.04.05|02 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1844–)",
+    "StartDate": 1844,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Take drugs -> Prepare tobacco -> remove stalks/stems",
+    "Categories": "01.09.04.05|01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1815–)",
+    "StartDate": 1815,
+    "EndDate": "",
+    "WordForm": "strip (well, etc.)",
+    "Identifiers": "Have faculty/power of sight/vision -> Have (specific) appearance -> present good appearance -> when stripped",
+    "Categories": "01.09.08.10.03|03.01 vi",
+    "PoS": "vi"
+  },
+  {
+    "RawDate": "(1459–)",
+    "StartDate": 1459,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Shape -> Condition of being long in relation to breadth -> long narrow piece",
+    "Categories": "01.12.03.14|02 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1882–)",
+    "StartDate": 1882,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Shape -> Condition of being long in relation to breadth -> long narrow piece -> of a surface",
+    "Categories": "01.12.03.14|02.02 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1877–)",
+    "StartDate": 1877,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Have specific position/arrangement -> Become uncovered -> become stripped/lend itself to stripping",
+    "Categories": "01.12.05.03.05.04|01 vi",
+    "PoS": "vi"
+  },
+  {
+    "RawDate": "(1839–)",
+    "StartDate": 1839,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Cause to have specific position/arrangement -> Uncover/remove covering from -> uncover and expose",
+    "Categories": "01.12.05.03.05.04|02 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1683–)",
+    "StartDate": 1683,
+    "EndDate": "",
+    "WordForm": "strip (down)",
+    "Identifiers": "Cause to have specific position/arrangement -> Uncover/remove covering from -> strip/make bare -> strip of accessories/equipment",
+    "Categories": "01.12.05.03.05.04|05.09 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1697–)",
+    "StartDate": 1697,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Cause to have specific position/arrangement -> Uncover/remove covering from -> strip/make bare -> strip of foliage/fruit",
+    "Categories": "01.12.05.03.05.04|05.06 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(c1430–)",
+    "StartDate": 1430,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Cause to have specific position/arrangement -> Uncover/remove covering from -> strip/make bare -> strip off (a covering)",
+    "Categories": "01.12.05.03.05.04|05.01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(c1400–1770)",
+    "StartDate": 1400,
+    "EndDate": 1770,
+    "WordForm": "strip",
+    "Identifiers": "Cause to have specific position/arrangement -> Uncover/remove covering from -> strip of skin -> strip/make bare -> skin (an animal)",
+    "Categories": "01.12.05.03.05.04|05.13.03 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1839–)",
+    "StartDate": 1839,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Cause to have specific position/arrangement -> Uncover/remove covering from -> strip of vegetation -> strip/make bare -> strip (vegetation)",
+    "Categories": "01.12.05.03.05.04|05.04.01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1816–)",
+    "StartDate": 1816,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Land -> Tract -> strip",
+    "Categories": "01.01.04.02|09 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1891–)",
+    "StartDate": 1891,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Farm -> Harvest",
+    "Categories": "01.07.03.03.06.05 vi",
+    "PoS": "vi"
+  },
+  {
+    "RawDate": "(1844–)",
+    "StartDate": 1844,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Farm -> Reclaim -> clear land -> clear of a crop",
+    "Categories": "01.07.03.03.01|03.08 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1610–)",
+    "StartDate": 1610,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Farm -> Dairy farm -> draw last milk from",
+    "Categories": "01.07.03.08.05|05 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1830–)",
+    "StartDate": 1830,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Farm -> Keeping dogs/cats -> clip/pluck dog",
+    "Categories": "01.07.03.08.14|05 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1857–)",
+    "StartDate": 1857,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Mammals -> Horse defined by purpose -> have covers removed",
+    "Categories": "01.05.19.06.02.03|07 vi",
+    "PoS": "vi"
+  },
+  {
+    "RawDate": "(1885–)",
+    "StartDate": 1885,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Form/make into a whole -> Divide by cutting -> cut into pieces -> into strips/shreds",
+    "Categories": "01.16.07.05.08.02.02|03.03 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1981– Commercial, orig. US)",
+    "StartDate": 1981,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Deal in stocks and shares -> specific operations",
+    "Categories": "03.12.22|01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1972–)",
+    "StartDate": 1972,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Types of money-dealing -> convert into cash/capital",
+    "Categories": "03.12.21.01|03 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1980– Commercial)",
+    "StartDate": 1980,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Manage money -> Keep accounts -> enter in an account -> other book-keeping procedures",
+    "Categories": "03.12.20.05|07.03 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1976– N. Amer. & Austral.)",
+    "StartDate": 1976,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Trading place -> Place where retail transactions made -> shopping arcade/precinct -> shop -> commercial area with variety of businesses",
+    "Categories": "03.12.13.04|01.02.01 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1975– orig. US)",
+    "StartDate": 1975,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Broadcast -> A broadcast programme/item -> broadcast of a serial programme",
+    "Categories": "03.09.12.02|01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1969/70– orig. US)",
+    "StartDate": 1969,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Broadcasting -> A broadcast programme/item -> broadcast of a serial programme",
+    "Categories": "03.09.12.02|04 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1619–1781)",
+    "StartDate": 1619,
+    "EndDate": 1781,
+    "WordForm": "strip",
+    "Identifiers": "Manifest -> Disclose/reveal -> the true character/identity of",
+    "Categories": "03.09.02.02|07 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1937–)",
+    "StartDate": 1937,
+    "EndDate": "",
+    "WordForm": "strip (in)",
+    "Identifiers": "Print -> Type founding -> make plate -> mount copy for",
+    "Categories": "03.09.08.20|05.01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1911–)",
+    "StartDate": 1911,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Correspondence -> Payment for postage -> postage stamp -> row of",
+    "Categories": "03.09.13.04.01|05.04 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1922–)",
+    "StartDate": 1922,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Develop (a region) industrially -> Oil refining/separating processes",
+    "Categories": "03.11.06.03.05 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1880–)",
+    "StartDate": 1880,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Develop (a region) industrially -> Work with metal -> remove scales/plating from metal",
+    "Categories": "03.11.06.03.06|27 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1674–)",
+    "StartDate": 1674,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Develop (a region) industrially -> Mine -> wash/stream",
+    "Categories": "03.11.06.10|06 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1908–)",
+    "StartDate": 1908,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Develop (a region) industrially -> Decorate -> remove paint/varnish",
+    "Categories": "03.11.06.05|05 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1831–)",
+    "StartDate": 1831,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Develop (a region) industrially -> Perform general/industrial manufacturing processes -> smooth surface",
+    "Categories": "03.11.06.02|05 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1873–)",
+    "StartDate": 1873,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Develop (a region) industrially -> Make tools/equipment/fastenings -> processes in making screws",
+    "Categories": "03.11.06.02.13|05 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1887–)",
+    "StartDate": 1887,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Materials -> Iron -> strip of iron",
+    "Categories": "03.11.12.03.12.06|13 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1887–)",
+    "StartDate": 1887,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Materials -> Iron -> type of iron -> other forms of iron",
+    "Categories": "03.11.12.03.12.06|10.08 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1877–)",
+    "StartDate": 1877,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Plated/coated metal -> of metal plating: come off",
+    "Categories": "03.11.12.03.12.09|01 vi",
+    "PoS": "vi"
+  },
+  {
+    "RawDate": "(1876–)",
+    "StartDate": 1876,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Materials -> Metal in specific state/form -> pig/ingot/bar -> in form of pigs -> cast metal -> prepared for rolling",
+    "Categories": "03.11.12.03.12.02|06.02.01.02 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1936– also fig.)",
+    "StartDate": 1936,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Air/space travel -> Airfield/airport -> air-strip",
+    "Categories": "03.10.06.05|03 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1963–)",
+    "StartDate": 1963,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Transport/convey -> load a container -> unload",
+    "Categories": "03.10.02|16.01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1516–1682 + 1701– US)",
+    "StartDate": 1516,
+    "EndDate": 1682,
+    "WordForm": "strip",
+    "Identifiers": "Rule of law -> Specific offences -> illegal acts of tenant",
+    "Categories": "03.05.09.02.01|46 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1873–)",
+    "StartDate": 1873,
+    "EndDate": "",
+    "WordForm": "the Strip/strip",
+    "Identifiers": "Inhabited place -> Part of country/district",
+    "Categories": "03.02.07.01.01.01 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1939– slang, chiefly N. Amer.)",
+    "StartDate": 1939,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Inhabited place -> Part of town/city -> row/street of buildings",
+    "Categories": "03.02.07.01.04.01.01|15 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1892–)",
+    "StartDate": 1892,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Cover bed -> remove bedclothes",
+    "Categories": "03.02.07.03.09.10.02|03 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1928–)",
+    "StartDate": 1928,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "The Arts -> Variety, etc. -> striptease",
+    "Categories": "03.13.03.05.04|05 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1929– colloq., orig. US)",
+    "StartDate": 1929,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "The Arts -> Perform in variety -> striptease",
+    "Categories": "03.13.03.05.04|01 vi",
+    "PoS": "vi"
+  },
+  {
+    "RawDate": "(1920– orig. US)",
+    "StartDate": 1920,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "The Arts -> Drawing -> a drawing -> comic/cartoon",
+    "Categories": "03.13.03.03.04.05|11.05 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1857–)",
+    "StartDate": 1857,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Take part in sport/game -> Engage in horse-racing -> of horse: have tackle, etc. removed",
+    "Categories": "03.13.04.13.06.03|09 vi",
+    "PoS": "vi"
+  },
+  {
+    "RawDate": "(1730–)",
+    "StartDate": 1730,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Take part in sport/game -> Ride horse in race -> remove clothing of race-horse",
+    "Categories": "03.13.04.13.06.03|11 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1941–)",
+    "StartDate": 1941,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Sport -> Motor-racing -> course/track",
+    "Categories": "03.13.04.13.06.07.01|09 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1976–)",
+    "StartDate": 1976,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Sport -> Cricket-ground -> wicket",
+    "Categories": "03.13.04.13.16.08.08|04 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1974– colloq.)",
+    "StartDate": 1974,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Sport -> Association football -> player -> clothing",
+    "Categories": "03.13.04.13.16.04.01|03.06 n",
+    "PoS": "n"
+  },
+  {
+    "RawDate": "(1854–)",
+    "StartDate": 1854,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Discharge fire-arms -> actions of bullet/shot",
+    "Categories": "03.03.16.05.05.02|13 vi",
+    "PoS": "vi"
+  },
+  {
+    "RawDate": "(1597–)",
+    "StartDate": 1597,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Lose -> Take away -> of any adjunct/asset -> deprive (of) -> specifically of a thing",
+    "Categories": "02.06.09.01|06.10.01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(c1386– also fig.)",
+    "StartDate": 1386,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Lose -> Take away -> deprive (of) -> of any adjunct/asset",
+    "Categories": "02.06.09.01|06.10 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1675–)",
+    "StartDate": 1675,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Lose -> Take away -> deprive (of) -> deprive (a thing)",
+    "Categories": "02.06.09.01|06.01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(c1320–)",
+    "StartDate": 1320,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Lose -> Take away -> deprive (of) -> of an honour/distinction/office",
+    "Categories": "02.06.09.01|06.08 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1683–)",
+    "StartDate": 1683,
+    "EndDate": "",
+    "WordForm": "strip (down)",
+    "Identifiers": "Supply (something) -> provide/supply (a person/thing) with anything -> take away equipment of",
+    "Categories": "02.06.14|12.13 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(c1386–)",
+    "StartDate": 1386,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Take -> Despoil/prey upon -> make a spoil of (something)",
+    "Categories": "02.06.13.05.05.04|01 vt",
+    "PoS": "vt"
+  },
+  {
+    "RawDate": "(1611–)",
+    "StartDate": 1611,
+    "EndDate": "",
+    "WordForm": "strip",
+    "Identifiers": "Beautify -> Adorn (persons) with jewels -> slip off a jewel",
+    "Categories": "02.02.18.01.01|01 vt",
+    "PoS": "vt"
+  }
+]
