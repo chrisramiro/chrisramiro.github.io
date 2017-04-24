@@ -5,7 +5,7 @@
     "EndDate": "",
     "WordForm": "game < gamen",
     "Identifiers": "Entertainment -> A specific form of amusement/ a pastime",
-    "Categories": "03.13.01.05 n",
+    "Categories": [03, 04, 02, 05]
     "PoS": "n"
   },
   {
