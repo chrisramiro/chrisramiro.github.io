@@ -5,7 +5,7 @@
     "EndDate": "",
     "WordForm": "strip",
     "Identifiers": "Clothing -> Undress/remove clothing -> strip/undress a person",
-    "Categories": "01.08.02.04.01|01 vt",
+    "Categories": [0, 2, 3],
     "PoS": "vt"
   },
   {
